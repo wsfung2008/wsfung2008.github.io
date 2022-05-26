@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mediconcen.loyalty",
+      "sha256_cert_fingerprints":
+      ["B5:AC:B6:D7:FE:74:73:D8:AE:37:5F:30:89:DD:A5:92:54:AE:C6:BE"]
+    }
+}]
